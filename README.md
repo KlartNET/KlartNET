@@ -31,7 +31,7 @@
 			</a>
 		</div-->
 	</div>
-	<div>
+	<!--div>
 		<h2 align="center">📌 Pinned Repositories</h2>
 		<div align="center">
 			<a href="https://github.com/KlartNET/aterbot/">
@@ -62,7 +62,7 @@
 			</a>
 		</div>
 	</div>
-</div>
+</div-->
 
 
 ![](https://hit.yhype.me/github/profile?user_id=36400787)
